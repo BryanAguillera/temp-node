@@ -1,0 +1,1 @@
+Here is the result for synch: Hello this is first txt file, Hello this is second txt file
